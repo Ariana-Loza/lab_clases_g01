@@ -1,0 +1,2 @@
+var=ariana
+print(var)
